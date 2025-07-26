@@ -1272,4 +1272,10 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+  @media (max-width: 768px) {
+  .hero img {
+    object-position: right center;
+  }
+}
+
 }
