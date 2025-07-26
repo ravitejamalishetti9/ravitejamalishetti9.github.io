@@ -1272,9 +1272,9 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
   .hero img {
-    object-position: right center;
+    content: url('C:\Users\mohan\Downloads\iPortfolio\iPortfolio\assets\img\MobileView-BGIMG.jpg');
   }
 }
 
